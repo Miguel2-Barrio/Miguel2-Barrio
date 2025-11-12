@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Barrio Peral - Cartagena</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+  <title>A.D. Barrio Peral – Cartagena</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
 </head>
 <body>
 
 <!-- Navbar -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>Barrio Peral</b> Cartagena</a>
+    <a href="#home" class="w3-bar-item w3-button"><b>A.D. Barrio Peral</b></a>
     <div class="w3-right w3-hide-small">
-      <a href="#lugares" class="w3-bar-item w3-button">Lugares</a>
-      <a href="#historia" class="w3-bar-item w3-button">Historia</a>
+      <a href="#plantilla" class="w3-bar-item w3-button">Plantilla</a>
+      <a href="#instalaciones" class="w3-bar-item w3-button">Instalaciones</a>
+      <a href="#escudo" class="w3-bar-item w3-button">Escudo</a>
       <a href="#contacto" class="w3-bar-item w3-button">Contacto</a>
     </div>
   </div>
@@ -22,89 +23,75 @@
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cartagena_-_Barrio_Peral.jpg" alt="Barrio Peral" width="1500" height="800">
+  <img class="w3-image" src="https://pbs.twimg.com/media/FeEzuvtX0AAeLPw?format=jpg&name=large" alt="Equipo A.D. Barrio Peral" width="1500" height="800">
   <div class="w3-display-middle w3-margin-top w3-center">
     <h1 class="w3-xxlarge w3-text-white">
-      <span class="w3-padding w3-black w3-opacity-min"><b>Barrio</b></span>
-      <span class="w3-hide-small w3-text-light-grey">Peral - Cartagena</span>
+      <span class="w3-padding w3-black w3-opacity-min"><b>Barrio Peral</b></span>
+      <span class="w3-hide-small w3-text-light-grey">Cartagena</span>
     </h1>
   </div>
 </header>
 
-<!-- Contenido principal -->
+<!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
 
-  <!-- Sección Lugares -->
-  <div class="w3-container w3-padding-32" id="lugares">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Lugares destacados</h3>
-  </div>
-
-  <div class="w3-row-padding">
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Plaza del Barrio Peral</div>
-        <img src="https://www.cartagena.es/imagenes/plaza.jpg" alt="Plaza" style="width:100%">
+  <!-- Sección Plantilla -->
+  <div class="w3-container w3-padding-32" id="plantilla">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Plantilla</h3>
+    <p>La equipación oficial del club es camiseta **amarilla**, pantalón **azul** y medias amarillas. :contentReference[oaicite:2]{index=2}</p>
+    <div class="w3-row-padding">
+      <div class="w3-col l6 m12 w3-margin-bottom">
+        <img src="https://www.cartagena.es/imagenes/plaza.jpg" alt="Jugadores A.D. Barrio Peral" style="width:100%">
+        <p><em>Foto de equipo</em></p>
       </div>
-    </div>
-
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Iglesia de San Fulgencio</div>
-        <img src="https://www.cartagena.es/imagenes/iglesia.jpg" alt="Iglesia" style="width:100%">
-      </div>
-    </div>
-
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Centro Cívico</div>
-        <img src="https://www.cartagena.es/imagenes/centrocivico.jpg" alt="Centro Cívico" style="width:100%">
-      </div>
-    </div>
-
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">Parque de los Juncos</div>
-        <img src="https://www.cartagena.es/imagenes/parque.jpg" alt="Parque" style="width:100%">
+      <div class="w3-col l6 m12 w3-margin-bottom">
+        <img src="https://pbs.twimg.com/media/FeiROCmXEAI-wS7.jpg" alt="A.D. Barrio Peral en entrenamiento" style="width:100%">
+        <p><em>Entrenamiento / Base juvenil</em></p>
       </div>
     </div>
   </div>
 
-  <!-- Sección Historia -->
-  <div class="w3-container w3-padding-32" id="historia">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Historia del Barrio Peral</h3>
-    <p>
-      El Barrio Peral es una de las zonas más emblemáticas de Cartagena. Surgió a principios del siglo XX como un barrio obrero, y con el paso de los años ha crecido hasta convertirse en una de las áreas residenciales más tranquilas y agradables de la ciudad.
-    </p>
-    <p>
-      Su nombre proviene del inventor cartagenero <strong>Isaac Peral</strong>, creador del submarino. En sus calles se respira tradición, cercanía y una comunidad muy activa, con asociaciones vecinales que organizan eventos, fiestas y actividades culturales durante todo el año.
-    </p>
+  <!-- Sección Instalaciones -->
+  <div class="w3-container w3-padding-32" id="instalaciones">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Instalaciones</h3>
+    <p>El club juega sus partidos en el terreno de juego “J.M. La Puerta – Barrio Peral”, Cartagena. :contentReference[oaicite:3]{index=3}</p>
+    <div class="w3-row-padding">
+      <div class="w3-col l12 m12 w3-margin-bottom">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Cartagena_-_Barrio_Peral.jpg" alt="Instalaciones Barrio Peral Cartagena" style="width:100%">
+        <p><em>Vista general del barrio e instalaciones deportivas</em></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Sección Escudo -->
+  <div class="w3-container w3-padding-32" id="escudo">
+    <h3 class="w3-border-bottom w_)
+    w3-border-light-grey w3-padding-16">Escudo</h3>
+    <p>Escudo oficial del club A.D. Barrio Peral.</p>
+    <img src="https://pbs.twimg.com/media/FeEzuvtX0AAeLPw?format=jpg&name=large" alt="Escudo A.D. Barrio Peral" style="width:200px; display:block; margin:auto;">
   </div>
 
   <!-- Sección Contacto -->
   <div class="w3-container w3-padding-32" id="contacto">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contacto</h3>
-    <p>¿Quieres más información sobre el Barrio Peral? Ponte en contacto con la Asociación de Vecinos.</p>
-    <form action="mailto:info@barrioperalcartagena.es" method="post" enctype="text/plain">
+    <p>Para más información, puedes ponerte en contacto con el club:</p>
+    <p>Email: <a href="mailto:ad_barrio_peral@yahoo.es">ad_barrio_peral@yahoo.es</a></p>
+    <p>Teléfono: 622 301 700 :contentReference[oaicite:4]{index=4}</p>
+    <form action="mailto:ad_barrio_peral@yahoo.es" method="post" enctype="text/plain">
       <input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre">
       <input class="w3-input w3-section w3-border" type="email" placeholder="Correo electrónico" required name="Correo">
-      <input class="w3-input w3-section w3-border" type="text" placeholder="Asunto" required name="Asunto">
       <textarea class="w3-input w3-section w3-border" placeholder="Mensaje" required name="Mensaje"></textarea>
       <button class="w3-button w3-black w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> ENVIAR MENSAJE
+        ENVIAR MENSAJE
       </button>
     </form>
-  </div>
-  
-  <!-- Imagen del mapa -->
-  <div class="w3-container">
-    <img src="https://maps.googleapis.com/maps/api/staticmap?center=Barrio+Peral,Cartagena,España&zoom=14&size=800x400&key=YOUR_API_KEY" class="w3-image" style="width:100%" alt="Mapa del Barrio Peral">
   </div>
 
 </div>
 
-<!-- Pie de página -->
+<!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
-  <p>Hecho con ❤️ desde el <b>Barrio Peral</b>, Cartagena</p>
+  <p>&copy; 2025 A.D. Barrio Peral – Cartagena</p>
 </footer>
 
 </body>
