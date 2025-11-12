@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Viajes Mundo Aventura</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>Viajes Mundo Aventura</b></a>
+    <div class="w3-right w3-hide-small">
+      <a href="#destinos" class="w3-bar-item w3-button">Destinos</a>
+      <a href="#ofertas" class="w3-bar-item w3-button">Ofertas</a>
+      <a href="#contacto" class="w3-bar-item w3-button">Contacto</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Viajes" width="1500" height="800">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-text-white">
+      <span class="w3-padding w3-black w3-opacity-min"><b>Mundo Aventura</b></span>
+      <span class="w3-hide-small w3-text-light-grey">Explora los mejores destinos</span>
+    </h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- Destinos -->
+  <div class="w3-container w3-padding-32" id="destinos">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Destinos Populares</h3>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">París</div>
+        <img src="https://images.unsplash.com/photo-1502602898657-3e91760cbb34" alt="París" style="width:100%">
+        <div class="w3-container w3-white">
+          <p>Torre Eiffel, Louvre y más. Desde <b>899€</b> por persona.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Roma</div>
+        <img src="https://images.unsplash.com/photo-1526481280698-7a0d76cbe786" alt="Roma" style="width:100%">
+        <div class="w3-container w3-white">
+          <p>Coliseo, Vaticano y plazas históricas. Desde <b>799€</b> por persona.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Tokio</div>
+        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d" alt="Tokio" style="width:100%">
+        <div class="w3-container w3-white">
+          <p>Cultura moderna y templos tradicionales. Desde <b>1299€</b> por persona.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Nueva York</div>
+        <img src="https://images.unsplash.com/photo-1504252060323-0c8f3a1d3a4d" alt="Nueva York" style="width:100%">
+        <div class="w3-container w3-white">
+          <p>Estatua de la Libertad, Central Park y Broadway. Desde <b>999€</b> por persona.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ofertas -->
+  <div class="w3-container w3-padding-32" id="ofertas">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Ofertas Especiales</h3>
+    <p>¡Aprovecha nuestras ofertas limitadas y viaja con Mundo Aventura!</p>
+    <ul>
+      <li>Semana Santa en Bali – Desde <b>1199€</b></li>
+      <li>Crucero por el Mediterráneo – Desde <b>899€</b></li>
+      <li>Escapada a Londres 3 noches – Desde <b>499€</b></li>
+    </ul>
+  </div>
+
+  <!-- Contacto -->
+  <div class="w3-container w3-padding-32" id="contacto">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contacto</h3>
+    <p>Resérvalo ahora o solicita más información:</p>
+    <form action="mailto:info@mundoaventura.com" method="post" enctype="text/plain">
+      <input class="w3-input w3-border" type="text" placeholder="Nombre" required name="Nombre">
+      <input class="w3-input w3-section w3-border" type="email" placeholder="Correo electrónico" required name="Correo">
+      <textarea class="w3-input w3-section w3-border" placeholder="Mensaje" required name="Mensaje"></textarea>
+      <button class="w3-button w3-black w3-section" type="submit">
+        ENVIAR MENSAJE
+      </button>
+    </form>
+  </div>
+
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>&copy; 2025 Viajes Mundo Aventura</p>
+</footer>
+
+</body>
+</html>
