@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8" />
-    <title>AD Barrio Peral</title>
-    <style>
-        body {
-            background-color: #f2f6ff;
-            font-family: Arial, sans-serif;
-        }
-        h1 {
-            color: #1a4db8;
-            text-align: center;
-        }
-        p {
-            font-family: "Trebuchet MS", sans-serif;
-            font-size: 22px;
-            text-align: center;
-        }
-        img {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <title>AD Barrio Peral</title>
+  <style>
+    body {
+      background-color: #f2f6ff;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: #1a4db8;
+      text-align: center;
+    }
+    p {
+      font-family: "Trebuchet MS", sans-serif;
+      font-size: 22px;
+      text-align: center;
+    }
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 <body>
-    <h1>AD Barrio Peral</h1>
-    <img 
-      src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4QAwRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAYgEbAAUAAAABAAAAYgEoAAMAAAABAAIAAIdpAAQAAAABAAAAlAAAAAAA/+EDElBIRUdJTkcgQUlMQUMgU0NIRU1BIEZPUiBBTExJU0VTAAABiAAAASwAAAB9/9sAQwAKBAQECgQEBgQFBAQGBwwICAgJCAoLCQkLCQoMDw8ODAwOEhITFhQXExgZGBcaGh0dHBwcHBwfIh4iIiEhISEhISEh/9sAQwEKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo/8AAEQgAAQACAwERAAIRAQMRAf/EABwAAAMBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSorLC0uLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QALBEAAgIBAwIFAgcAAAAAAAAAAQIDEQQSITEFEyJBUWEUcYGRobHwEyNCUuH/2gAMAwEAAhEDEQA/APaIY1lLYqMSxUKhEJVSoCBiMW0oA+1Nfl9lyXVtYW96hOJCuTuZyx6ZSRk5AyQpP1OcChKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQ//2Q==" 
-      alt="AD Barrio Peral" 
-      width="300"
-    />
-    <p>El barrio juega</p>
+  <h1>AD Barrio Peral</h1>
+  <img
+    src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4QAwRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAYgEbAAUAAAABAAAAYgEoAAMAAAABAAIAAIdpAAQAAAABAAAAlAAAAAAA/+EDElBIRUdJTkcgQUlMQUMgU0NIRU1BIEZPUiBBTExJU0VTAAABiAAAASwAAAB9/9sAQwAKBAQECgQEBgQFBAQGBwwICAgJCAoLCQkLCQoMDw8ODAwOEhITFhQXExgZGBcaGh0dHBwcHBwfIh4iIiEhISEhISEh/9sAQwEKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo/8AAEQgAAQACAwERAAIRAQMRAf/EABwAAAMBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSorLC0uLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QALBEAAgIBAwIFAgcAAAAAAAAAAQIDEQQSITEFEyJBUWEUcYGRobHwEyNCUuH/2gAMAwEAAhEDEQA/APaIY1lLYqMSxUKhEJVSoCBiMW0oA+1Nfl9lyXVtYW96hOJCuTuZyx6ZSRk5AyQpP1OcChKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQkpSlKUqQ//2Q=="
+    alt="AD Barrio Peral"
+    width="300"
+  />
+  <p>El barrio juega</p>
 </body>
 </html>
