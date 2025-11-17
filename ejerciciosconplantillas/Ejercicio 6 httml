@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>AD Barrio Peral</title>
+</head>
+<body>
+    <h1>AD Barrio Peral</h1>
+
+    <!-- Imagen -->
+    <img src="ruta/de/tu/imagen.jpg" alt="AD Barrio Peral" width="300">
+
+    <!-- Texto debajo -->
+    <p>El barrio juega</p>
+</body>
+</html>
